@@ -7,8 +7,14 @@ Download **index.html** file and host it with:
 1. Live Server VS Code Extension
   - Open Extensions Tab
   - Type "Live Server"
+  <img src="Screenshots/LiveServer" width="300">
   - Install
+  <img src="Screenshots/install" width="300">
   - Press "Go Live" button
+  <img src="Screenshots/GoLive" width="300">
 2. Built-in function in WebStorm
   - Just press "Start" button (or Shift + F10)
-## Done
+  <img src="Screenshots/WebStorm" width="300">
+## How the program works
+<img src="Screenshots/Leap" width="300">
+<img src="Screenshots/Not Leap" width="300">
