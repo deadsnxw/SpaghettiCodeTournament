@@ -2,6 +2,7 @@
 
 ## Task №1:  
 The code checks whether the entered year is a leap year.
+Programming language: YoptaScript
 
 ## How to run the code?
 Download **index.html** file and host it with:
