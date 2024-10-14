@@ -21,4 +21,4 @@ Download **index.html** file and host it with:
 
 ## How the program works  
 ![Leap](Screenshots/Leap.png)  
-![Not Leap](Screenshots/Not Leap.png)  
+![Not Leap](Screenshots/NotLeap.png)  
