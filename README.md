@@ -1,7 +1,7 @@
 # Spaghetti Code Tournament
 
 ## Task №1:  
-The code checks whether the entered year is a leap year.
+The code checks whether the entered year is a leap year.  
 Programming language: YoptaScript
 
 ## How to run the code?
